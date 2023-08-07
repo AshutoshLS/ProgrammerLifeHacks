@@ -20,6 +20,6 @@ netstat -ano | findstr :3306
 ```
 Note the PID xxxx
 ```
-taskkill /pid 6980 /F
+taskkill /pid xxxx /F
 ```
 
