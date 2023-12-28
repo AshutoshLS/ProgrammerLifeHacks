@@ -23,3 +23,12 @@ Note the PID xxxx
 taskkill /pid xxxx /F
 ```
 
+## Download YouTube video
+```
+pip install yt-dlp  
+```
+Use:
+```
+yt-dlp --verbose https://www.youtube.com/watch?v=[videoId]
+```
+
